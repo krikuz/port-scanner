@@ -1,0 +1,6 @@
+Port 22:ssh is open
+Banner: SSH-2.0-OpenSSH_6.6.1p1 Ubuntu
+
+Port 80:http is open
+Banner: HTTP/1.1 200 OK
+Server: Apache/2.4.7
